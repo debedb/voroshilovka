@@ -32,7 +32,8 @@ python3 leak.py 'https://play.sherlockquiz.com/?gid=4577&tid=2224'
 
 Standard library only. Prints each tour's questions with their accepted
 answers. Verified on game 4577 ("Песочные часы №9", 2026-09-16): 72 of 72
-questions returned with answers.
+questions returned with answers
+([output](../games/4577/output.txt), [report](../games/4577/leak.pdf)).
 
 ## Suggested fix
 
