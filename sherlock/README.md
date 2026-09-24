@@ -23,3 +23,4 @@ Player app: `https://play.sherlockquiz.com/?gid=<game>&tid=<team>`.
 | gid | Date | Name | Artifacts |
 |-----|------|------|-----------|
 | 4577 | 2026-09-16 | Песочные часы №9 | [games/4577/](games/4577/) |
+| 4578 | 2026-09-23 | Песочные часы | [games/4578/](games/4578/) |
